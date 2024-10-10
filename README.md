@@ -6,5 +6,5 @@ Car rental is a web app developed using a variety of features and tools. The app
 
 ## Features
 Frontend: Angular Cli -v12
-Backend: Java 21 & Spring Boot
+Backend: Java 17 & Spring Boot
 Database: MySQL
